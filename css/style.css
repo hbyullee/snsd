@@ -1,0 +1,12 @@
+    h1 {
+        color: #888888;
+        font-size: 3.0em;
+        text-align: center;
+        width: 60%;
+        border: 1px;
+    }
+    
+    img {
+        width: 60px;
+        height: 100px;
+    }
